@@ -29,3 +29,8 @@
 • Arduino Uno Board
 • I2C Lines: SDA and SCL (A4 and A5 on Arduino Uno)
 
+![Image](https://github.com/user-attachments/assets/017213c4-4226-4336-a405-ac8d75e9655e)
+![Image](https://github.com/user-attachments/assets/563fee45-70dd-41ba-ab6e-a23b69f2ed69)
+![Image](https://github.com/user-attachments/assets/e16b7d35-ca95-47a5-9a42-3a36e29b7d6b)
+![Image](https://github.com/user-attachments/assets/cf13798b-6404-46e6-8203-3eca12ccaf17)
+![Image](https://github.com/user-attachments/assets/1797a154-a41c-4dbf-9c20-78e0e2a86a3a)
